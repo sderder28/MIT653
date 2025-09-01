@@ -6,3 +6,9 @@
 
 - Survey Design: 0%
 - Data Analysis: 0%
+
+# Week 12 (assessed on 01/09/25)
+
+- Survey Design: 0%
+- Data Analysis: 0%
+- Human Research Ethics Application: 0%
